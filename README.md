@@ -1,5 +1,4 @@
-# Recommender-System
-##How to Use
+#How to Use
 To use this code for building a movie recommendation system, follow these steps:
 
 Ensure you have the necessary libraries (Pandas, NumPy, and scikit-learn) installed in your Python environment.
